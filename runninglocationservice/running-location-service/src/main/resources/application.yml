@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: running-location-service
+qz:
+  name: 504-qz
